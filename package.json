@@ -1,0 +1,26 @@
+{
+  "name": "20190730",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.min.css -x",
+    "xxx" : "xxx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzynbx/20190730.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzynbx/20190730/issues"
+  },
+  "homepage": "https://github.com/wzynbx/20190730#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.5.1",
+    "less": "^3.11.3"
+  }
+}
